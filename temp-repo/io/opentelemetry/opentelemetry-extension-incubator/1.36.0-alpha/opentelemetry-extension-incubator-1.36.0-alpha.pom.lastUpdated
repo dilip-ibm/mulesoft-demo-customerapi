@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 13:36:38 IST 2026
+@default-mulesoft-releases-https\://repository.mulesoft.org/releases/.lastUpdated=1775462798054
+https\://repository.mulesoft.org/releases/.error=Could not transfer artifact io.opentelemetry\:opentelemetry-extension-incubator\:pom\:1.36.0-alpha from/to mulesoft-releases (https\://repository.mulesoft.org/releases/)\: transfer failed for https\://repository.mulesoft.org/releases/io/opentelemetry/opentelemetry-extension-incubator/1.36.0-alpha/opentelemetry-extension-incubator-1.36.0-alpha.pom
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1775462798230
+https\://repository.mulesoft.org/nexus/content/repositories/public/.error=Could not transfer artifact io.opentelemetry\:opentelemetry-extension-incubator\:pom\:1.36.0-alpha from/to mule (https\://repository.mulesoft.org/nexus/content/repositories/public/)\: transfer failed for https\://repository.mulesoft.org/nexus/content/repositories/public/io/opentelemetry/opentelemetry-extension-incubator/1.36.0-alpha/opentelemetry-extension-incubator-1.36.0-alpha.pom
+@default-mule-public-https\://repository.mulesoft.org/nexus/content/repositories/public/.lastUpdated=1775462797972
+@default-mule-https\://repository.mulesoft.org/nexus/content/repositories/public/.lastUpdated=1775462798337
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.opentelemetry\:opentelemetry-extension-incubator\:pom\:1.36.0-alpha from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-extension-incubator/1.36.0-alpha/opentelemetry-extension-incubator-1.36.0-alpha.pom

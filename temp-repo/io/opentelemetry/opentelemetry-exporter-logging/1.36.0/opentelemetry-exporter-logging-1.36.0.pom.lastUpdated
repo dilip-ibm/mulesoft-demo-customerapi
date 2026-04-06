@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 13:58:26 IST 2026
+@default-mulesoft-releases-https\://repository.mulesoft.org/releases/.lastUpdated=1775464105088
+https\://repository.mulesoft.org/releases/.error=Could not transfer artifact io.opentelemetry\:opentelemetry-exporter-logging\:pom\:1.36.0 from/to mulesoft-releases (https\://repository.mulesoft.org/releases/)\: transfer failed for https\://repository.mulesoft.org/releases/io/opentelemetry/opentelemetry-exporter-logging/1.36.0/opentelemetry-exporter-logging-1.36.0.pom
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1775464105708
+https\://repository.mulesoft.org/nexus/content/repositories/public/.error=Could not transfer artifact io.opentelemetry\:opentelemetry-exporter-logging\:pom\:1.36.0 from/to mule (https\://repository.mulesoft.org/nexus/content/repositories/public/)\: transfer failed for https\://repository.mulesoft.org/nexus/content/repositories/public/io/opentelemetry/opentelemetry-exporter-logging/1.36.0/opentelemetry-exporter-logging-1.36.0.pom
+@default-mule-public-https\://repository.mulesoft.org/nexus/content/repositories/public/.lastUpdated=1775464104983
+@default-mule-https\://repository.mulesoft.org/nexus/content/repositories/public/.lastUpdated=1775464106514
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.opentelemetry\:opentelemetry-exporter-logging\:pom\:1.36.0 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-exporter-logging/1.36.0/opentelemetry-exporter-logging-1.36.0.pom

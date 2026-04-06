@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 13:58:28 IST 2026
+@default-mulesoft-releases-https\://repository.mulesoft.org/releases/.lastUpdated=1775464108764
+https\://repository.mulesoft.org/releases/.error=Could not transfer artifact org.mule.runtime\:mule-tracer-exporter-impl\:pom\:4.7.2 from/to mulesoft-releases (https\://repository.mulesoft.org/releases/)\: transfer failed for https\://repository.mulesoft.org/releases/org/mule/runtime/mule-tracer-exporter-impl/4.7.2/mule-tracer-exporter-impl-4.7.2.pom
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1775464108871
+https\://repository.mulesoft.org/nexus/content/repositories/public/.error=Could not transfer artifact org.mule.runtime\:mule-tracer-exporter-impl\:pom\:4.7.2 from/to mule (https\://repository.mulesoft.org/nexus/content/repositories/public/)\: transfer failed for https\://repository.mulesoft.org/nexus/content/repositories/public/org/mule/runtime/mule-tracer-exporter-impl/4.7.2/mule-tracer-exporter-impl-4.7.2.pom
+@default-mule-public-https\://repository.mulesoft.org/nexus/content/repositories/public/.lastUpdated=1775464108508
+@default-mule-https\://repository.mulesoft.org/nexus/content/repositories/public/.lastUpdated=1775464108943
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.mule.runtime\:mule-tracer-exporter-impl\:pom\:4.7.2 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/mule/runtime/mule-tracer-exporter-impl/4.7.2/mule-tracer-exporter-impl-4.7.2.pom
