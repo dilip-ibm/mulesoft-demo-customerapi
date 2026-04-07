@@ -1,3 +1,8 @@
 {
-  "minMuleVersion": "4.4.0"
+  "minMuleVersion": "4.9.0",
+  "requiredProduct": "MULE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  }
 }

@@ -18,6 +18,7 @@
         <mule.jms.connector.version>1.8.7</mule.jms.connector.version>
         <mule.validation.version>2.0.8</mule.validation.version>
         <mule.db.connector.version>1.14.17</mule.db.connector.version>
+        <postgresql.version>42.6.0</postgresql.version>
     </properties>
     <build>
         <plugins>
@@ -29,7 +30,7 @@
             <plugin>
                 <groupId>org.mule.tools.maven</groupId>
                 <artifactId>mule-maven-plugin</artifactId>
-                <version>4.3.0</version>
+                <version>4.5.0</version>
                 <extensions>true</extensions>
                 <configuration>
                     <sharedLibraries>
@@ -95,7 +96,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.3.1</version>
+            <version>${postgresql.version}</version>
         </dependency>
         <dependency>
             <groupId>org.mule.modules</groupId>
